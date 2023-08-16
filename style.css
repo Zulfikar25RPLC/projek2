@@ -1,0 +1,262 @@
+body {
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    overflow-x: hidden;
+}
+
+.container {
+    background-color: white;
+    position: relative;
+}
+
+.header {
+    padding-bottom: 45px;
+}
+
+.header img {
+    padding-right: 86%;
+}
+
+.header button {
+    background-color: #E8EFF2; 
+    border: none;
+    color: black;
+    padding: 14px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    position: absolute;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.script {
+    display: flex;
+    justify-content: space-between;
+}
+
+.desk-one {
+    width: 28%;
+}
+
+.desk-one h2 {
+    color: #1c2943;
+    font-family: sans-serif;
+    font-weight: 1000;
+    font-size: 38px;
+    line-height: 1.0;
+    padding-top: 50px;
+}
+
+.desk-one p {
+    font-family: sans-serif;
+    color: #a3a9b7;
+    font-size: 14px;
+    line-height: 1.4;
+    padding-bottom: 20px;
+}
+
+.button1 {
+    border: none;
+    background-color: #ee671a;
+    color: white;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.button2 {
+    border: none;
+    background-color: white;
+    color: #a3a9b7;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    position: absolute;
+    font-weight: bold;
+    border-radius: 6px;
+    margin-left: 14px;
+}
+
+
+.desk-three img {
+    width: 570px;
+    height: 430px;
+    border-radius: 14px;
+}
+
+.icon {
+    position: absolute;
+    overflow: hidden;
+    width: 110px;
+    right: -21.3vh;
+    margin-left: 20vh;
+}
+
+.icon img {
+    height: 100%;    
+}
+
+.gallery {
+    margin-top: 20px;   
+    display: flex;
+}
+
+.photo1 {
+    width: 240px;
+    height: 430px;
+    border-radius: 15px;
+}
+
+.photo2 {
+    width: 500px;
+    height: 430px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.icon1 {
+    position: absolute;
+    width: 110px;
+    left: -40vh;
+    top: 102.5vh;
+}
+
+.taskbar {
+    margin-left: 10px;
+    padding-top: 15vh;
+    padding-left: 14vh;
+    padding-right: 10vh;
+    width: 200px;
+}
+
+.taskbar h2 {
+    color: #1c2943;
+    font-family: sans-serif;
+    font-weight: 1000;
+    line-height: 1.2;
+}
+
+.taskbar p {
+    color: #a3a9b7;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.navbar {
+    display: flex;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+
+.one, .two, .three, .four {
+    margin-right: 50px;
+}
+
+.one img {
+    background-color: #F16718;
+    background-size: 50px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.onet h3 {
+    color: #1c2943;
+    font-weight: 1000;
+    font-size: 20px;
+    width: 100px;
+}
+
+.onet p {
+    color: #a3a9b7;
+    padding-top: 14px;
+}
+
+.two {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.two img {
+    background-color: #F16718;
+    background-size: 50px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.twoet h3 {
+    color: #1c2943;
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+.twoet p {
+    color: #a3a9b7;
+    padding-top: 12px;
+}
+
+.three img {
+    background-color: #F16718;
+    background-size: 50px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.threet h3 {
+    color: #1c2943;
+    font-weight: 1000;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.threet p {
+    color: #a3a9b7;
+    padding-top: 10px;
+}
+
+.four img {
+    background-color: #F16718;
+    background-size: 50px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.fourt h3 {
+    color: #1c2943;
+    font-weight: 1000;
+    font-size: 20px;
+    width: 200px;
+}
+
+.fourt p {
+    color: #a3a9b7;
+    padding-top: 7px;
+}
+
+.footer {
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 80px;
+    color: #a3a9b7;
+}
+
+span {
+    font-weight: bold;
+    color: #1c29439e;
+}
